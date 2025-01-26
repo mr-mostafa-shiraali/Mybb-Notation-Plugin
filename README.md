@@ -27,4 +27,4 @@ Two simple condition :
 * Post writer can change Type,Animate,Animate Duration ,Color,Stroke Width,Padding and many other options in editor.
 * You can enable/disable this feature for "Printable version","Lite (Archive) Mode","Portal" page.
   
-   ## More details : [Notation Plugin](https://community.mybb.com/thread-242756.html)
+## More details : [Notation Plugin](https://community.mybb.com/thread-242756.html)
